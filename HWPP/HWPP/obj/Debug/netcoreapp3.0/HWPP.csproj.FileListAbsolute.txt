@@ -1,0 +1,13 @@
+C:\Users\kolev\source\repos\HWPP\HWPP\bin\Debug\netcoreapp3.0\HWPP.exe
+C:\Users\kolev\source\repos\HWPP\HWPP\bin\Debug\netcoreapp3.0\HWPP.deps.json
+C:\Users\kolev\source\repos\HWPP\HWPP\bin\Debug\netcoreapp3.0\HWPP.runtimeconfig.json
+C:\Users\kolev\source\repos\HWPP\HWPP\bin\Debug\netcoreapp3.0\HWPP.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\HWPP\HWPP\bin\Debug\netcoreapp3.0\HWPP.dll
+C:\Users\kolev\source\repos\HWPP\HWPP\bin\Debug\netcoreapp3.0\HWPP.pdb
+C:\Users\kolev\source\repos\HWPP\HWPP\obj\Debug\netcoreapp3.0\HWPP.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\HWPP\HWPP\obj\Debug\netcoreapp3.0\HWPP.AssemblyInfo.cs
+C:\Users\kolev\source\repos\HWPP\HWPP\obj\Debug\netcoreapp3.0\HWPP.dll
+C:\Users\kolev\source\repos\HWPP\HWPP\obj\Debug\netcoreapp3.0\HWPP.pdb
+C:\Users\kolev\source\repos\HWPP\HWPP\obj\Debug\netcoreapp3.0\HWPP.csproj.AssemblyReference.cache
+C:\Users\kolev\source\repos\HWPP\HWPP\obj\Debug\netcoreapp3.0\HWPP.csproj.CoreCompileInputs.cache
+C:\Users\kolev\source\repos\HWPP\HWPP\obj\Debug\netcoreapp3.0\HWPP.genruntimeconfig.cache
